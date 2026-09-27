@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Vansh Bisht<br>💻 BCA Student | Software Developer | Cybersecurity & Data Analytics Enthusiast<br><br>I'm a BCA final-year student passionate about building practical software, exploring cybersecurity, and working with data. I enjoy turning ideas into functional projects and continuously improving my development skills.<br><br>🎓 BCA — Amrapali University<br>💡 Interested in Software Development, Cybersecurity & Data Analytics<br>🐍 Python | 🌐 Web Development | 🛡️ Cybersecurity | 📊 Data
+👋 Hi, I'm Vansh <br>💻 BCA Student | Software Developer | Cybersecurity & Data Analytics Enthusiast<br><br>I'm a BCA final-year student passionate about building practical software, exploring cybersecurity, and working with data. I enjoy turning ideas into functional projects and continuously improving my development skills.<br><br>🎓 BCA — Amrapali University<br>💡 Interested in Software Development, Cybersecurity & Data Analytics<br>🐍 Python | 🌐 Web Development | 🛡️ Cybersecurity | 📊 Data
 
 
 ## 🌐 Socials:
